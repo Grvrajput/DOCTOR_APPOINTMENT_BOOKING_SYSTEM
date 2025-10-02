@@ -22,5 +22,4 @@ This project is a Doctor Appointment System built using PHP. It allows patients 
 - For Doctors: Log in, manage availability, and view appointments.
 - For Admin: Log in, manage users (doctors and patients), and track appointments.
 
-## How to run the Doctor Appointment Management System Project Using PHP and MySQL
 
